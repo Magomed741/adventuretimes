@@ -1,0 +1,52 @@
+body {
+    background-color:black;
+}
+
+.section {
+    color: white;
+    background-color: #222222;
+    width:1200px;
+    margin-left:60px;
+}
+h1 {
+    margin-left: 32%;
+    font-family: 'Oswald', sans-serif;
+}
+.fin {
+    width: 1200px;
+    height: 500px;
+    margin-left: 0px;    
+}
+.opis {
+    font-size: 30px;
+    margin-left: 420px;
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.section2 {
+        background-color: #222222;
+        width: 1200px;
+        height: 700px;
+        margin-left: 60px;
+}
+.jake {
+    width: 180px;
+    height: 300px;
+}
+.opisj {
+    color: white;
+    margin-left: 30px;
+}
+.fines {
+    width: 180px;
+    height: 300px;
+}
+.section3 {
+    background-color: #222222;
+
+        margin-left: 60px;
+}
